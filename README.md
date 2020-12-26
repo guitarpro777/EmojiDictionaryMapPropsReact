@@ -1,0 +1,2 @@
+# EmojiDictionaryMapPropsReact
+Created with CodeSandbox
